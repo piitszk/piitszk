@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Fullstack Developer</h1>
+<h1 align="center">Hi 👋, I'm a Backend Developer</h1>
 <h3 align="center">B.Sc. in Systems Analysis and Development</h3>
 
 <h3 align="center">Languages and Tools:</h3>
