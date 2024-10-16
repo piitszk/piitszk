@@ -14,7 +14,7 @@
 
 # 💫 About
 
-🖊️ Developer at Universe / Lisboa / Bella / Terranova, from [Garty Group](https://discord.gg/FsvcPH554h)<br>
+🖊️ Developer at Euforia, Universe / Lisboa / Bella, from [Garty Group](https://discord.gg/FsvcPH554h)<br>
 🥋 Brazilian Jiu Jitsu fighter in free time<br>
 🚀 Available for projects<br>
 
