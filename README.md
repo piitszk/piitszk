@@ -20,7 +20,6 @@
 
 ## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c#&logoColor=white)
