@@ -14,7 +14,7 @@
 
 # 💫 About
 
-🖊️ Developer at Universe / Sakura / Saturno / Euforia / Lisboa / Bella, from Garty Group<br>
+🖊️ Developer at Universe / Sakura / Saturno / Caribe / Euforia / Lisboa / Bella, from Garty Group<br>
 🥋 Brazilian Jiu Jitsu fighter in free time<br>
 🚀 Available for projects<br>
 
