@@ -5,26 +5,29 @@
 🎓 &nbsp;Currently working at Euforia Group.\
 🎮 &nbsp;Focused on Game Development and modding (mainly FiveM).\
 💻 &nbsp;Experience leading tech teams and managing projects end-to-end.\
-🥋 &nbsp;Brazilian Jiu-Jitsu practitioner.\
+⚡ &nbsp;Expertise in **system architecture** and **performance optimization**.\
 💬 &nbsp;Reach me on [Discord](https://discordapp.com/users/928040581588996157) or via email at **piitszkdev@outlook.com**.
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/piitszk/piitszk/master/profile-summary-card-output/dark/0-profile-details.svg" alt="github stats"><br>
   <img src="https://raw.githubusercontent.com/piitszk/piitszk/master/profile-summary-card-output/dark/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/piitszk/piitszk/master/profile-summary-card-output/dark/2-most-commit-language.svg"><br>
 </p>
+
 > ⚠️ These charts reflect GitHub activity and do not necessarily indicate proficiency.
 
 ---
 
 ## Technologies & Tools
 
-- **Languages:** Lua, TypeScript, JavaScript (Node.js), C#, C++, Go, Swift
+- **Languages:** Lua, TypeScript, JavaScript (Node.js), C#, C++, Go, Swift  
 - **Frontend:** React, Next.js, Vite, jQuery  
-- **Backend:** Node.js
+- **Backend:** Node.js  
 - **Databases:** MySQL, SQLite  
 - **Infrastructure:** Docker (learning)  
+- **Specialties:** Game Development, **Architecture Design**, **Performance Optimization**  
 - **Version Control & Tools:** Git, GitHub, VS Code  
 
 ---
