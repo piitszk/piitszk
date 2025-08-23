@@ -1,9 +1,9 @@
-<h3 align="center">Software Engineer | Tech Lead | Fullstack Developer | BJJ Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Software Engineer | Tech Lead | Fullstack Developer | Game Developer</h3>
 
 ## A little bit about me
 
 🎓 &nbsp;Currently working at Euforia Group.\
-🌱 &nbsp;Self-taught developer, passionate about continuous learning.\
+🎮 &nbsp;Focused on Game Development and modding (mainly FiveM).\
 💻 &nbsp;Experience leading tech teams and managing projects end-to-end.\
 🥋 &nbsp;Brazilian Jiu-Jitsu practitioner.\
 💬 &nbsp;Reach me on [Discord](https://discordapp.com/users/928040581588996157) or via email at **piitszkdev@outlook.com**.
@@ -20,9 +20,9 @@
 
 ## Technologies & Tools
 
-- **Languages:** Lua, TypeScript, JavaScript (Node.js), C#, C++
+- **Languages:** Lua, TypeScript, JavaScript (Node.js), C#, C++, Go, Swift
 - **Frontend:** React, Next.js, Vite, jQuery  
-- **Backend:** Node.js  
+- **Backend:** Node.js
 - **Databases:** MySQL, SQLite  
 - **Infrastructure:** Docker (learning)  
 - **Version Control & Tools:** Git, GitHub, VS Code  
