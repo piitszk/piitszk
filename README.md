@@ -16,8 +16,8 @@
 <br>
 ![Visual Studio](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=FF3225)
 ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=FF3225)
-![GitHub](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=FF3225)
-![JQuery](https://img.shields.io/badge/Tools-jquery-informational?style=flat&logo=jquery&logoColor=white&color=FF3225)
+![GitHub](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=FF3225)
+![JQuery](https://img.shields.io/badge/Tools-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=FF3225)
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
