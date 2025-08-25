@@ -2,7 +2,6 @@
 
 ## A little bit about me
 
-🎓 &nbsp;Currently working at Euforia Group.\
 🎮 &nbsp;Focused on Game Development and modding (mainly FiveM).\
 💻 &nbsp;Experience leading tech teams and managing projects end-to-end.\
 ⚡ &nbsp;Expertise in **system architecture** and **performance optimization**.\
