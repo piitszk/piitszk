@@ -1,7 +1,7 @@
 <h3 align="center">Software Engineer | Tech Lead | Fullstack Developer | Game Developer</h3>
 
 ## A little bit about me
-
+🎓 &nbsp;Currently working at WinsVue.\
 🎮 &nbsp;Focused on Game Development and modding (mainly FiveM).\
 💻 &nbsp;Experience leading tech teams and managing projects end-to-end.\
 ⚡ &nbsp;Expertise in **system architecture** and **performance optimization**.\
