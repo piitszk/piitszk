@@ -1,7 +1,7 @@
-<h3 align="center">Software Engineer | Tech Lead | Fullstack Developer | Game Developer</h3>
+<h3 align="center">Software Engineer | Fullstack Developer | Game Developer</h3>
 
 ## A little bit about me
-🎓 &nbsp;Currently working at WinsVue.\
+🎓 &nbsp;Currently working at Destiny Community.\
 🎮 &nbsp;Focused on Game Development and modding (mainly FiveM).\
 💻 &nbsp;Experience leading tech teams and managing projects end-to-end.\
 ⚡ &nbsp;Expertise in **system architecture** and **performance optimization**.\
@@ -22,9 +22,9 @@
 ## Technologies & Tools
 
 - **Languages:** Lua, TypeScript, JavaScript (Node.js), C#, C++, Go, Swift  
-- **Frontend:** React, Next.js, Vite, jQuery  
+- **Frontend:** React, Next.js, Vite, jQuery, Vue
 - **Backend:** Node.js  
-- **Databases:** MySQL, SQLite  
+- **Databases:** MySQL, MariaDB
 - **Infrastructure:** Docker (learning)  
 - **Specialties:** Game Development, **Architecture Design**, **Performance Optimization**  
 - **Version Control & Tools:** Git, GitHub, VS Code  
